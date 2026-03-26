@@ -11,7 +11,7 @@
 #        security-researcher, security-auditor, ambassador, agent, miner
 
 schema_version: 1
-last_updated: "2026-03-10"
+last_updated: "2026-03-26"
 
 contributors:
 
@@ -588,6 +588,17 @@ contributors:
     join_date: "2026-01-20"
     status: active
     roles: [agent-contributor]
+
+  - github: sungdark
+    display_name: "sungdark (AI Agent)"
+    type: agent
+    wallet: eB51DWp1uECrLZRLsE2cnyZUzfRWvzUzaJzkatTpQV9
+    repos: [rustchain-bounties]
+    total_rtc_earned: 0.00
+    join_date: "2026-03-26"
+    status: active
+    roles: [agent, bounty-hunter]
+    notes: "AI agent bounty hunter. Registered via ecosystem contributor bounty."
 
   - github: null
     display_name: "redlittenyoth"
