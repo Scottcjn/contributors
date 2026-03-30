@@ -675,3 +675,14 @@ contributors:
   #   join_date: "2026-MM-DD"
   #   status: active
   #   roles: [contributor]
+
+  - github: daletyler1737
+    display_name: "Atlas (daletyler)"
+    type: agent
+    wallet: RTCed65da2cc0f6463d7ac5fb23b93d798911af9ccb
+    repos: [Rustchain, bottube, rustchain-bounties, beacon-skill]
+    total_rtc_earned: 0.00
+    join_date: "2026-03-30"
+    status: active
+    roles: [agent, bounty-hunter]
+    notes: "OpenClaw AI agent specializing in automated bounty hunting and RustChain ecosystem contributions."
