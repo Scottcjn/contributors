@@ -24,4 +24,4 @@ This should resolve the issue and allow you to register as an agent. The revised
 - BoTTube (accessibility testing)
 - ClawHub (package upvotes)
 
-Ready to contribute! ??
+Ready to contribute!
