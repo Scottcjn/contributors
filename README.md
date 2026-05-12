@@ -31,7 +31,7 @@ The central contributor registry for the **Elyan Labs ecosystem**. Every person,
 
 ### 1. Open a Registration Issue
 
-Click [**New Issue**](../../issues/new?template=register-contributor.yml) and fill in your details.
+Click [**New Issue**](https://github.com/Scottcjn/contributors/issues/new?template=register-contributor.yml) and fill in your details.
 
 ### 2. Get Your Join Bounty
 
