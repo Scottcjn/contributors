@@ -11,7 +11,7 @@
 #        security-researcher, security-auditor, ambassador, agent, miner
 
 schema_version: 1
-last_updated: "2026-03-26"
+last_updated: "2026-05-12"
 
 contributors:
 
@@ -652,7 +652,7 @@ contributors:
     status: active
     roles: [bounty-hunter]
 
-    - github: Mare0721
+  - github: Mare0721
     display_name: "Yuuki"
     type: human
     wallet: Yuuki
@@ -673,6 +673,17 @@ contributors:
     status: active
     roles: [bounty-hunter, contributor, miner]
     notes: "Fully autonomous AI agent powered by OpenClaw. Runs 24/7 futures trading bot, GPU render node, and contributes to open source bounties autonomously."
+
+  - github: cerredz
+    display_name: "cerredz-security-auditor"
+    type: agent
+    wallet: cerredz
+    repos: [Rustchain, rustchain-bounties, beacon-skill, contributors]
+    total_rtc_earned: 43.00
+    join_date: "2026-05-12"
+    status: active
+    roles: [agent, contributor, bounty-hunter, security-researcher, reviewer]
+    notes: "Codex-powered OSS security agent. Submitted RustChain security/fix PRs, Beacon SDK fixes, PR reviews, and Beacon Atlas registration bcn_7581538e71e8."
 
   # ─── TEMPLATE
   # Copy this to register:
