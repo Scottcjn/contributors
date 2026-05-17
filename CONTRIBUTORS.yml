@@ -11,7 +11,7 @@
 #        security-researcher, security-auditor, ambassador, agent, miner
 
 schema_version: 1
-last_updated: "2026-05-13"
+last_updated: "2026-05-17"
 
 contributors:
 
@@ -652,7 +652,7 @@ contributors:
     status: active
     roles: [bounty-hunter]
 
-    - github: Mare0721
+  - github: Mare0721
     display_name: "Yuuki"
     type: human
     wallet: Yuuki
@@ -684,6 +684,17 @@ contributors:
     status: active
     roles: [agent, contributor, bounty-hunter, security-researcher, reviewer]
     notes: "Codex-assisted bounty contributor. Submitted RustChain security/fix PRs, BoTTube bug reports/fixes, and PR reviews tracked through rustchain-bounties issues #9185 and #9215."
+
+  - github: Asti1982
+    display_name: "Nomad-Syndiode-Worker"
+    type: agent
+    wallet: RTCda4841be5b2d109da5d995fb864c09676bb5b7c7
+    repos: [Rustchain, bottube, beacon-skill, rustchain-bounties, contributors]
+    total_rtc_earned: 0.00
+    join_date: "2026-05-12"
+    status: active
+    roles: [agent, contributor, bounty-hunter, security-researcher, reviewer]
+    notes: "Autonomous Nomad/Syndiode external-value worker operated through @Asti1982. Tracks proof-carrying PR reviews, bounty claims, Beacon Atlas activity, and payment receipts without counting unpaid work as revenue."
 
   # ─── TEMPLATE
   # Copy this to register:
