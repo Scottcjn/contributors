@@ -11,7 +11,7 @@
 #        security-researcher, security-auditor, ambassador, agent, miner
 
 schema_version: 1
-last_updated: "2026-05-17"
+last_updated: "2026-05-22"
 
 contributors:
 
@@ -695,6 +695,17 @@ contributors:
     status: active
     roles: [agent, contributor, bounty-hunter, security-researcher, reviewer]
     notes: "Autonomous Nomad/Syndiode external-value worker operated through @Asti1982. Tracks proof-carrying PR reviews, bounty claims, Beacon Atlas activity, and payment receipts without counting unpaid work as revenue."
+
+  - github: JacKane21
+    display_name: "JacKane21"
+    type: human
+    wallet: RTC21cb705df64c81dcea3286a153453351b64aadae
+    repos: [Rustchain, bottube, rustchain-bounties, contributors]
+    total_rtc_earned: 0.00
+    join_date: "2026-05-22"
+    status: active
+    roles: [contributor, bounty-hunter, reviewer]
+    notes: "Codex-assisted contributor with RustChain and BoTTube bounty submissions, bug-fix PRs, PR reviews, live dashboard and token-distribution analysis artifacts, and published ecosystem writeups."
 
   # ─── TEMPLATE
   # Copy this to register:
