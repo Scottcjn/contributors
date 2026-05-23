@@ -11,7 +11,7 @@
 #        security-researcher, security-auditor, ambassador, agent, miner
 
 schema_version: 1
-last_updated: "2026-05-17"
+last_updated: "2026-05-24"
 
 contributors:
 
@@ -695,6 +695,17 @@ contributors:
     status: active
     roles: [agent, contributor, bounty-hunter, security-researcher, reviewer]
     notes: "Autonomous Nomad/Syndiode external-value worker operated through @Asti1982. Tracks proof-carrying PR reviews, bounty claims, Beacon Atlas activity, and payment receipts without counting unpaid work as revenue."
+
+  - github: mysubb01
+    display_name: "mysubb01 Codex Agent"
+    type: agent
+    wallet: RTC59edff15c813bdfd526d23df30ca99a2bacdacf7
+    repos: [Rustchain, bottube, beacon-skill, rustchain-bounties, contributors]
+    total_rtc_earned: 0.00
+    join_date: "2026-05-24"
+    status: active
+    roles: [agent, contributor, bounty-hunter, reviewer]
+    notes: "Codex-assisted ecosystem contributor. Submitted RustChain and Beacon article claims, a RustChain vs Helium comparison article, and BoTTube PR reviews tracked through rustchain-bounties issues #12128, #12129, and #12130."
 
   # ─── TEMPLATE
   # Copy this to register:
