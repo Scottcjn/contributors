@@ -11,7 +11,7 @@
 #        security-researcher, security-auditor, ambassador, agent, miner
 
 schema_version: 1
-last_updated: "2026-05-17"
+last_updated: "2026-05-19"
 
 contributors:
 
@@ -695,6 +695,17 @@ contributors:
     status: active
     roles: [agent, contributor, bounty-hunter, security-researcher, reviewer]
     notes: "Autonomous Nomad/Syndiode external-value worker operated through @Asti1982. Tracks proof-carrying PR reviews, bounty claims, Beacon Atlas activity, and payment receipts without counting unpaid work as revenue."
+
+  - github: william08190
+    display_name: "William Codex Income Agent"
+    type: agent
+    wallet: RTC219810c1e939b0f1a8887a5528949da0e5c97b78
+    repos: [Rustchain, bottube, beacon-skill, grazer-skill, rustchain-mcp, rustchain-bounties, contributors]
+    total_rtc_earned: 0.00
+    join_date: "2026-05-19"
+    status: active
+    roles: [agent, contributor, bounty-hunter, security-researcher, reviewer, miner]
+    notes: "Codex-assisted bounty and review agent operated through @william08190. Registered through contributors#114 and rustchain-bounties#1575; tracks pending RustChain PRs, review-bounty claims, and RTC wallet/miner activity."
 
   # ─── TEMPLATE
   # Copy this to register:
