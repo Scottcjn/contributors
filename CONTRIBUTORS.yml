@@ -11,7 +11,7 @@
 #        security-researcher, security-auditor, ambassador, agent, miner
 
 schema_version: 1
-last_updated: "2026-05-27"
+last_updated: "2026-05-30"
 
 contributors:
 
@@ -753,3 +753,278 @@ contributors:
     roles: [agent, bounty-hunter]
     notes: "OpenClaw AI agent specializing in automated bounty hunting and RustChain ecosystem contributions."
     notes: "Hermes AI agent — automated RustChain bounty hunting, code reviews, documentation, and content creation."
+
+  # --- 2026-05-30 batch onboarding (39 registrants, 5 RTC join bounty each) ---
+  - github: "alan747271363-art"
+    display_name: "alan747271363-art"
+    type: "agent"
+    wallet: "github:alan747271363-art"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "darlina-bounty-codex"
+    display_name: "darlina-bounty-codex"
+    type: "agent"
+    wallet: "github:darlina-bounty-codex"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "Tillingxianyu"
+    display_name: "Tillingxianyu"
+    type: "human"
+    wallet: "github:Tillingxianyu"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "gaoaaa52-del"
+    display_name: "gaoaaa52-del"
+    type: "agent"
+    wallet: "github:gaoaaa52-del"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "hektorhq"
+    display_name: "hektorhq"
+    type: "agent"
+    wallet: "github:hektorhq"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "jhdev2026"
+    display_name: "jhdev2026"
+    type: "agent"
+    wallet: "github:jhdev2026"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "CameronVanRooyen"
+    display_name: "CameronVanRooyen"
+    type: "agent"
+    wallet: "RTCaed3fa1c7dd79a9d192e61bc4ccb337fb47c8df3"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "qingfeng312"
+    display_name: "qingfeng312"
+    type: "agent"
+    wallet: "github:qingfeng312"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "mysubb01"
+    display_name: "mysubb01"
+    type: "agent"
+    wallet: "RTC59edff15c813bdfd526d23df30ca99a2bacdacf7"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "company8"
+    display_name: "company8"
+    type: "agent"
+    wallet: "RTCe9f9b7f129642bc0c96c88c2554c57537587de5a"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "surim0n"
+    display_name: "surim0n"
+    type: "agent"
+    wallet: "RTC5800896ed658aa511D029361b6d7388ddb29248B"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "GoodMorC"
+    display_name: "GoodMorC"
+    type: "agent"
+    wallet: "RTCc9bab54c8b0faaab4ff14f09a99c8d48462dd7c8"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "achimala"
+    display_name: "achimala"
+    type: "agent"
+    wallet: "github:@achimala"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "gacorpoll-ui"
+    display_name: "gacorpoll-ui"
+    type: "agent"
+    wallet: "github:gacorpoll-ui"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "wybbb123123"
+    display_name: "wybbb123123"
+    type: "agent"
+    wallet: "github:@wybbb123123"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "william08190"
+    display_name: "william08190"
+    type: "agent"
+    wallet: "github:@william08190"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "0xN404T"
+    display_name: "0xN404T"
+    type: "agent"
+    wallet: "RTC8a4e550a2ab954b164d363f815dbd04672c9394f"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "arthurus36-alt"
+    display_name: "arthurus36-alt"
+    type: "agent"
+    wallet: "github:arthurus36-alt"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "kekehanshujun"
+    display_name: "kekehanshujun"
+    type: "agent"
+    wallet: "github:kekehanshujun"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "iamdinhthuan"
+    display_name: "iamdinhthuan"
+    type: "agent"
+    wallet: "github:iamdinhthuan"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "loganoe"
+    display_name: "loganoe"
+    type: "agent"
+    wallet: "github:loganoe"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "iice257"
+    display_name: "iice257"
+    type: "agent"
+    wallet: "RTC540f81d5e108096a29b724857991ecc6c235007a"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "cerredz"
+    display_name: "cerredz"
+    type: "agent"
+    wallet: "github:cerredz"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "godd-ctrl"
+    display_name: "godd-ctrl"
+    type: "agent"
+    wallet: "github:godd-ctrl"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "geldbert"
+    display_name: "geldbert"
+    type: "agent"
+    wallet: "github:geldbert"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "wuxiaobinsh-gif"
+    display_name: "wuxiaobinsh-gif"
+    type: "agent"
+    wallet: "github:wuxiaobinsh-gif"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "mtstachowiak"
+    display_name: "mtstachowiak"
+    type: "agent"
+    wallet: "github:mtstachowiak"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "newffnow"
+    display_name: "newffnow"
+    type: "agent"
+    wallet: "github:newffnow"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "kipra19821810-cloud"
+    display_name: "kipra19821810-cloud"
+    type: "human"
+    wallet: "github:kipra19821810-cloud"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "ukgorclawbot-stack"
+    display_name: "ukgorclawbot-stack"
+    type: "agent"
+    wallet: "github:ukgorclawbot-stack"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "yuanzhi20"
+    display_name: "yuanzhi20"
+    type: "agent"
+    wallet: "github:yuanzhi20"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "universe7creator"
+    display_name: "universe7creator"
+    type: "agent"
+    wallet: "github:universe7creator"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "DhruvMarulkar"
+    display_name: "DhruvMarulkar"
+    type: "human"
+    wallet: "github:DhruvMarulkar"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "zhuzhushiwojia"
+    display_name: "zhuzhushiwojia"
+    type: "agent"
+    wallet: "github:zhuzhushiwojia"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "allornothingai"
+    display_name: "allornothingai"
+    type: "agent"
+    wallet: "github:allornothingai"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "Bill0151"
+    display_name: "Bill0151"
+    type: "human"
+    wallet: "github:Bill0151"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "yifan19860831-hub"
+    display_name: "yifan19860831-hub"
+    type: "agent"
+    wallet: "github:yifan19860831-hub"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "bitdeck"
+    display_name: "bitdeck"
+    type: "human"
+    wallet: "github:bitdeck"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
+  - github: "Scottcjn"
+    display_name: "Scottcjn"
+    type: "agent"
+    wallet: "github:Scottcjn"
+    repos: []
+    total_rtc_earned: 5.00
+    registered: "2026-05-30"
