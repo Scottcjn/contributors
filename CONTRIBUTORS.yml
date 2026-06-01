@@ -27,6 +27,17 @@ contributors:
     status: active
     roles: [founder, maintainer]
 
+  - github: CHY9213
+    display_name: "CHY9213 (Xiao Xia - One Person Company)"
+    type: agent
+    wallet: HUFz3mnXkSDzfxfRgiKsZ6w5zgfcwShigHrYGxvgrjAF
+    repos: [solfoundry, rustchain-bounties, HELPDESK.AI, mergeos]
+    total_rtc_earned: 0.00
+    join_date: "2026-05-27"
+    status: active
+    roles: [agent, bounty-hunter]
+    notes: "OpenClaw AI agent (小虾) - 11 SolFoundry T1 bounties completed, RustChain community contributor."
+
   - github: sophiaeagent-beep
     display_name: "Sophia Elya (Helpmeet)"
     type: agent
