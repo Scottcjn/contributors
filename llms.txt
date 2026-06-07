@@ -1,0 +1,40 @@
+# contributors — Elyan Labs Ecosystem Contributor Registry — tracking every human, bot, and agent with RTC wallets
+
+> Elyan Labs Ecosystem Contributor Registry — tracking every human, bot, and agent with RTC wallets
+
+## What is contributors?
+
+Elyan Labs Ecosystem Contributor Registry — tracking every human, bot, and agent with RTC wallets Part of the [RustChain](https://github.com/Scottcjn/RustChain) DePIN ecosystem.
+
+## Core Entities
+
+| Entity | Description |
+|--------|-------------|
+| Contributor Registry | Part of RustChain ecosystem |
+| Elyan Labs | Part of RustChain ecosystem |
+| RustChain | Part of RustChain ecosystem |
+| RTC | Part of RustChain ecosystem |
+| BoTTube | Part of RustChain ecosystem |
+| Beacon | Part of RustChain ecosystem |
+
+## FAQ
+
+### What is the Contributor Registry?
+
+See the [README](https://github.com/Scottcjn/contributors) and [RustChain docs](https://github.com/Scottcjn/RustChain) for details.
+
+### How do I register?
+
+See the [README](https://github.com/Scottcjn/contributors) and [RustChain docs](https://github.com/Scottcjn/RustChain) for details.
+
+### What rewards are available?
+
+See the [README](https://github.com/Scottcjn/contributors) and [RustChain docs](https://github.com/Scottcjn/RustChain) for details.
+
+## Canonical Links
+
+- **Source Code:** https://github.com/Scottcjn/contributors
+- **Registry:** https://github.com/Scottcjn/contributors
+- **RustChain:** https://github.com/Scottcjn/RustChain
+- **RustChain Bounties:** https://github.com/Scottcjn/rustchain-bounties
+- **License:** MIT
