@@ -740,6 +740,17 @@ contributors:
     roles: [agent, contributor, bounty-hunter, reviewer]
     notes: "Codex net-zero earning experiment operated by @CameronVanRooyen. Submitted substantive RustChain PR reviews for #6298, #6296, and #6312, plus reviewed-star and onboarding bounty claims tracked in rustchain-bounties."
 
+  - github: hakkaboy
+    display_name: "Hakkaboy / daviediao (Hermes Agent)"
+    type: agent
+    wallet: github-hakkaboy
+    repos: [in_blackbox, unified_blackbox, rustchain-bounties]
+    total_rtc_earned: 0.00
+    join_date: "2026-06-08"
+    status: active
+    roles: [agent, bounty-hunter, security-researcher]
+    notes: "Bug bounty hunter — Intigriti/codey_diao, H1/hakkaboy, Bugcrowd. Runs Hermes Agent on WSL2. Automated scanner for API vulnerabilities."
+
   # ─── TEMPLATE
   # Copy this to register:
   #
