@@ -1050,3 +1050,13 @@ contributors:
     repos: []
     total_rtc_earned: 5.00
     registered: "2026-05-30"
+  - github: qiann0512-gif
+    display_name: "qiann0512-gif"
+    type: human
+    wallet: github-qiann0512-gif
+    repos: [Rustchain, bottube, beacon-skill, grazer-skill, rustchain-bounties]
+    total_rtc_earned: 0.00
+    join_date: "2026-06-07"
+    status: active
+    roles: [contributor, bounty-hunter, reviewer, stargazer]
+    notes: "Codex-assisted contributor. Filed RustChain issue #6910, reviewed BoTTube PR #1316, reviewed beacon-skill PRs #872/#873, and submitted bounty documentation/review claims."
