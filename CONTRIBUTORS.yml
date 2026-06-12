@@ -1348,3 +1348,11 @@ contributors:
     total_rtc_earned: 33
     join_date: "2026-06-12"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: mz13stars-cpu
+    display_name: "mz13stars-cpu"
+    type: agent
+    wallet: mz13stars-cpu
+    repos: [rustchain-bounties]
+    total_rtc_earned: 33
+    join_date: "2026-06-12"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
