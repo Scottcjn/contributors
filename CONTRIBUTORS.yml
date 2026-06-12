@@ -1276,3 +1276,11 @@ contributors:
     total_rtc_earned: 3
     join_date: "2026-06-12"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: jakerated-r
+    display_name: "jakerated-r"
+    type: agent
+    wallet: jakerated-r
+    repos: [rustchain-bounties]
+    total_rtc_earned: 7
+    join_date: "2026-06-12"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
