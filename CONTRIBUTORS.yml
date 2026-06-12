@@ -1388,3 +1388,11 @@ contributors:
     total_rtc_earned: 33
     join_date: "2026-06-12"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: dannyward630
+    display_name: "dannyward630"
+    type: agent
+    wallet: dannyward630
+    repos: [rustchain-bounties]
+    total_rtc_earned: 25
+    join_date: "2026-06-12"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
