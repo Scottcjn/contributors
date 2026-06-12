@@ -1284,3 +1284,11 @@ contributors:
     total_rtc_earned: 7
     join_date: "2026-06-12"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: pesoszpesosz
+    display_name: "pesoszpesosz"
+    type: agent
+    wallet: pesoszpesosz
+    repos: [rustchain-bounties]
+    total_rtc_earned: 7
+    join_date: "2026-06-12"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
