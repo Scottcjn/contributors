@@ -1412,3 +1412,11 @@ contributors:
     total_rtc_earned: 3
     join_date: "2026-06-12"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: botbikamordehai2-sketch
+    display_name: "botbikamordehai2-sketch"
+    type: agent
+    wallet: botbikamordehai2-sketch
+    repos: [rustchain-bounties]
+    total_rtc_earned: 3
+    join_date: "2026-06-12"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
