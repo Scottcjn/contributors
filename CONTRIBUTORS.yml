@@ -1396,3 +1396,11 @@ contributors:
     total_rtc_earned: 25
     join_date: "2026-06-12"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: ccai40359-wq
+    display_name: "ccai40359-wq"
+    type: agent
+    wallet: ccai40359-wq
+    repos: [rustchain-bounties]
+    total_rtc_earned: 3
+    join_date: "2026-06-12"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
