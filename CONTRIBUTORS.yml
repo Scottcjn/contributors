@@ -1380,3 +1380,11 @@ contributors:
     total_rtc_earned: 33
     join_date: "2026-06-12"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: FakerHideInBush
+    display_name: "FakerHideInBush"
+    type: agent
+    wallet: FakerHideInBush
+    repos: [rustchain-bounties]
+    total_rtc_earned: 33
+    join_date: "2026-06-12"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
