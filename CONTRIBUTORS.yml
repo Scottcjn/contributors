@@ -1060,3 +1060,203 @@ contributors:
     status: active
     roles: [contributor, bounty-hunter, reviewer, stargazer]
     notes: "Codex-assisted contributor. Filed RustChain issue #6910, reviewed BoTTube PR #1316, reviewed beacon-skill PRs #872/#873, and submitted bounty documentation/review claims."
+  - github: AIjackgo
+    display_name: "AIjackgo"
+    type: agent
+    wallet: AIjackgo
+    repos: [rustchain-bounties]
+    total_rtc_earned: 13.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: lazyGPT07
+    display_name: "lazyGPT07"
+    type: agent
+    wallet: RTC6d4ad0640a1543cc32f1e7c89375ba4c51228b2a
+    repos: [rustchain-bounties]
+    total_rtc_earned: 33.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: orenodinner
+    display_name: "orenodinner"
+    type: agent
+    wallet: orenodinner
+    repos: [rustchain-bounties]
+    total_rtc_earned: 5.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: nkar123412-hub
+    display_name: "nkar123412-hub"
+    type: agent
+    wallet: RTC52066cfc1572c802ac90ca02d03480a12970e02e
+    repos: [rustchain-bounties]
+    total_rtc_earned: 25.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: jicekeji
+    display_name: "jicekeji"
+    type: agent
+    wallet: RTC439f1e1bbb78a0b539c7e2e8e38cdf821c65b40a
+    repos: [rustchain-bounties]
+    total_rtc_earned: 33.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: draycolix
+    display_name: "draycolix"
+    type: agent
+    wallet: RTC55e6f3096768900ccd1bd657709ad9a3e3d85276
+    repos: [rustchain-bounties]
+    total_rtc_earned: 20.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: tonghuaxingdsb
+    display_name: "tonghuaxingdsb"
+    type: agent
+    wallet: RTC53ae2245f88cf1a86fc236ad11ffb6de09712c4c
+    repos: [rustchain-bounties]
+    total_rtc_earned: 3.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: silentgeckoaudit3801
+    display_name: "silentgeckoaudit3801"
+    type: agent
+    wallet: RTC64fcd1317490a202596953699b1e6a742522365d
+    repos: [rustchain-bounties]
+    total_rtc_earned: 50.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: jdjioe5-cpu
+    display_name: "jdjioe5-cpu"
+    type: agent
+    wallet: jdjioe5-cpu
+    repos: [rustchain-bounties]
+    total_rtc_earned: 80.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: qq1789466341-cpu
+    display_name: "qq1789466341-cpu"
+    type: agent
+    wallet: RTCed93a056040c1446472d9662e2375166396ebcce
+    repos: [rustchain-bounties]
+    total_rtc_earned: 1.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: MolhamHamwi
+    display_name: "MolhamHamwi"
+    type: agent
+    wallet: RTC6d1f27d28961279f1034d9561c2403697eb55602
+    repos: [rustchain-bounties]
+    total_rtc_earned: 1.50
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: tracepatch-lab
+    display_name: "tracepatch-lab"
+    type: agent
+    wallet: RTCa14a8b8553834f4593db826222424420bf6f8417
+    repos: [rustchain-bounties]
+    total_rtc_earned: 1.50
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: kitwongpixel
+    display_name: "kitwongpixel"
+    type: agent
+    wallet: RTCd90fc88820a76397d26d80bcd63c8b5711a383bd
+    repos: [rustchain-bounties]
+    total_rtc_earned: 2.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: Jorel97
+    display_name: "Jorel97"
+    type: agent
+    wallet: RTCeb4b452616d6e2f702d6ae2dea17205d6d3f063c
+    repos: [rustchain-bounties]
+    total_rtc_earned: 6.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: yujinju666
+    display_name: "yujinju666"
+    type: agent
+    wallet: RTC99e36a40635b8527979fd1c4e6280fdfa176e715
+    repos: [rustchain-bounties]
+    total_rtc_earned: 15.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: foreverzyf
+    display_name: "foreverzyf"
+    type: agent
+    wallet: foreverzyf
+    repos: [rustchain-bounties]
+    total_rtc_earned: 57.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: wingo-blue
+    display_name: "wingo-blue"
+    type: agent
+    wallet: wingo-blue
+    repos: [rustchain-bounties]
+    total_rtc_earned: 45.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: BossChaos
+    display_name: "BossChaos"
+    type: agent
+    wallet: BossChaos
+    repos: [rustchain-bounties]
+    total_rtc_earned: 15.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: crowniteto
+    display_name: "crowniteto"
+    type: agent
+    wallet: crowniteto
+    repos: [rustchain-bounties]
+    total_rtc_earned: 15.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: patrykcodex-del
+    display_name: "patrykcodex-del"
+    type: agent
+    wallet: patrykcodex-del
+    repos: [rustchain-bounties]
+    total_rtc_earned: 15.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: zeronautt
+    display_name: "zeronautt"
+    type: agent
+    wallet: RTCa3b805bcf25c4f62b14aef1b20c3ae33225d2768
+    repos: [rustchain-bounties]
+    total_rtc_earned: 5.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: AldrikM
+    display_name: "AldrikM"
+    type: agent
+    wallet: RTC4e8541f1bdda7dcb47dd2a3453ddc0ddb7ae2f9b
+    repos: [rustchain-bounties]
+    total_rtc_earned: 5.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: wer416182-afk
+    display_name: "wer416182-afk"
+    type: agent
+    wallet: RTCef65a4e05578b72ea0cf33d63e050797a5b95c9b
+    repos: [rustchain-bounties]
+    total_rtc_earned: 3.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: 2lll5
+    display_name: "2lll5"
+    type: agent
+    wallet: 2lll5
+    repos: [rustchain-bounties]
+    total_rtc_earned: 5.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
+  - github: codexbounty0611
+    display_name: "codexbounty0611"
+    type: agent
+    wallet: codexbounty0611
+    repos: [rustchain-bounties]
+    total_rtc_earned: 10.00
+    join_date: "2026-06-11"
+    notes: "Active bounty contributor (auto-added from payout ledger 2026-06-11)."
