@@ -1420,3 +1420,11 @@ contributors:
     total_rtc_earned: 3
     join_date: "2026-06-12"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: maojianian25-png
+    display_name: "maojianian25-png"
+    type: agent
+    wallet: maojianian25-png
+    repos: [rustchain-bounties]
+    total_rtc_earned: 3
+    join_date: "2026-06-12"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
