@@ -1364,3 +1364,11 @@ contributors:
     total_rtc_earned: 33
     join_date: "2026-06-12"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: avisii1680769-cell
+    display_name: "avisii1680769-cell"
+    type: agent
+    wallet: avisii1680769-cell
+    repos: [rustchain-bounties]
+    total_rtc_earned: 33
+    join_date: "2026-06-12"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
