@@ -1428,3 +1428,11 @@ contributors:
     total_rtc_earned: 3
     join_date: "2026-06-12"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: deanventor-max
+    display_name: "deanventor-max"
+    type: agent
+    wallet: deanventor-max
+    repos: [rustchain-bounties]
+    total_rtc_earned: 3
+    join_date: "2026-06-12"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
