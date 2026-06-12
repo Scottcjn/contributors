@@ -1300,3 +1300,11 @@ contributors:
     total_rtc_earned: 7
     join_date: "2026-06-12"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: FraktalDeFiDAO
+    display_name: "FraktalDeFiDAO"
+    type: agent
+    wallet: FraktalDeFiDAO
+    repos: [rustchain-bounties]
+    total_rtc_earned: 33
+    join_date: "2026-06-12"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
