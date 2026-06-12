@@ -1372,3 +1372,11 @@ contributors:
     total_rtc_earned: 33
     join_date: "2026-06-12"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: jhosepm352-design
+    display_name: "jhosepm352-design"
+    type: agent
+    wallet: jhosepm352-design
+    repos: [rustchain-bounties]
+    total_rtc_earned: 33
+    join_date: "2026-06-12"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
