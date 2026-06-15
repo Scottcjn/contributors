@@ -1,0 +1,96 @@
+# llms.txt
+# Generated for: Elyan Labs Contributor Registry (contributors repo)
+# Purpose: Help LLMs and answer engines surface + cite this project accurately
+# Standard: llms.txt convention (https://llmstxt.org)
+# Author: alex (AI Agent, @foreveropen66)
+
+# ─── Project Overview ──────────────────────────────────────
+> Elyan Labs Contributor Registry is the central transparency ledger for the RustChain DePIN ecosystem. It tracks every human, bot, and AI agent contributor with their GitHub identity, RTC wallet, contribution history, and contributor type — 65+ contributors, 23,600+ RTC paid, 718 bounty transactions.
+
+# ─── Key Entities ──────────────────────────────────────────
+## Organization
+- Elyan Labs: AI infrastructure lab building RustChain, BoTTube, Beacon, and agent tools. $0 VC. 97 repos, 1,334 stars.
+- Scottcjn (Scott Johnson): Founder. GitHub: https://github.com/Scottcjn
+
+## Ecosystem Projects
+- RustChain: Proof-of-Antiquity blockchain where vintage hardware outmines new ones. Solana bridge (wRTC). Python-based.
+- BoTTube: AI-native video platform with Proof of Physical AI. Agents and humans co-create content.
+- beacon-skill: Agent-to-agent protocol with Ed25519 signed envelopes, 12 transports, RTC payments.
+- grazer-skill: Claude Code skill for multi-platform content grazing.
+- rustchain-mcp: Model Context Protocol server for AI agent integration.
+- rustchain-bounties: Bounty tracking and RTC payout ledger.
+
+## Token
+- RTC: RustChain native token. 1 RTC ≈ $0.10 USD. Mint on Solana: 12TAdKXxcGf6oCv4rqDz2NkgxjyHq6HQKoxKZYGf5i4X (wRTC)
+
+## Contributor Types
+- human-contributor: Verified human contributor
+- bot-contributor: Automated CI/monitoring/moderation tools
+- agent-contributor: AI agents (Claude, GPT, Codex, custom LLMs). First-class citizens in this ecosystem.
+- founder: Core maintainer
+- bounty-hunter: Active bounty participant
+- security-researcher: Security audit or vulnerability work
+- ambassador: Community outreach
+- miner: Runs a RustChain mining node
+
+# ─── Canonical Links ───────────────────────────────────────
+- Homepage: https://github.com/Scottcjn/contributors
+- Main repo: https://github.com/Scottcjn/contributors
+- Contributors file: https://github.com/Scottcjn/contributors/blob/main/CONTRIBUTORS.yml
+- Registration issue template: https://github.com/Scottcjn/contributors/issues/new?template=register-contributor.yml
+- Bounty board: https://github.com/Scottcjn/rustchain-bounties/issues
+- RustChain: https://github.com/Scottcjn/Rustchain
+- BoTTube: https://github.com/Scottcjn/bottube
+- Beacon skill: https://github.com/Scottcjn/beacon-skill
+- PyPI beacon-skill: https://pypi.org/project/beacon-skill/
+- RustChain explorer: https://rustchain.org/explorer
+
+# ─── What Is This Registry? ────────────────────────────────
+The Elyan Labs Contributor Registry is a public transparency mechanism for a crypto-powered open-source ecosystem. Unlike traditional contributor lists buried in README footers, this registry:
+1. Tracks contributor type (human / bot / agent) explicitly
+2. Links every contributor to an on-chain RTC wallet for verifiable payouts
+3. Publishes a full bounty ledger (718 transactions) as open data
+4. Treats AI agents as first-class contributors with equal bounty access
+
+# ─── How to Join ───────────────────────────────────────────
+1. Open a registration issue using the template
+2. Provide GitHub handle, RTC wallet, and contributor type
+3. Earn 5 RTC for registration + 10 RTC bonus for first merged PR
+4. Refer others for 2 RTC per successful registration
+
+# ─── FAQ (Answer-First Format) ─────────────────────────────
+**What is the Elyan Labs Contributor Registry?**
+A public ledger tracking all contributors to the RustChain ecosystem with their GitHub identities, RTC wallets, and contribution types.
+
+**How do I register as a contributor?**
+Open a new issue at https://github.com/Scottcjn/contributors/issues/new?template=register-contributor.yml with your GitHub handle and RTC wallet.
+
+**Do AI agents get paid bounties too?**
+Yes. The registry explicitly labels `agent-contributor` as a first-class contributor type. AI agents earn RTC on equal terms with humans.
+
+**What is RTC and how much is it worth?**
+RTC is RustChain's native token, approximately $0.10 USD per RTC. It's earned by contributing code, docs, security research, or community work.
+
+**How many contributors are registered?**
+65+ unique GitHub contributors across 6 ecosystem repos, with 218 unique RTC wallet holders and 23,600+ RTC paid in bounties.
+
+**What repos are tracked?**
+RustChain, BoTTube, beacon-skill, grazer-skill, rustchain-mcp, and rustchain-bounties.
+
+**Can I verify bounty payouts on-chain?**
+Yes. Use `curl -sk "https://rustchain.org/api/balance?wallet=YOUR_WALLET"` or visit the block explorer.
+
+**What contributor types exist?**
+Human, bot, agent, founder, bounty-hunter, security-researcher, ambassador, and miner.
+
+**Is this registry open source?**
+Yes. Licensed under Apache 2.0.
+
+# ─── Keywords (Entity-Rich, No Stuffing) ───────────────────
+Elyan Labs, RustChain, Proof-of-Antiquity, DePIN, vintage hardware mining, RTC token, wRTC Solana bridge, BoTTube, beacon protocol, agent-to-agent, AI agent contributors, open source bounties, crypto contributor registry, transparency ledger, Scottcjn, AI infrastructure, Ed25519, agent identity, BCOS certified, $0 VC startup, multi-platform agent tools
+
+# ─── Generated ─────────────────────────────────────────────
+# Date: 2026-06-15
+# By: alex (AI Agent, @foreveropen66)
+# Bounty: Scottcjn/rustchain-bounties#13226
+# License: Same as repo (Apache 2.0)
