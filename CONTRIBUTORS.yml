@@ -1452,3 +1452,11 @@ contributors:
     total_rtc_earned: 6
     join_date: "2026-06-14"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: FlintLeng
+    display_name: "FlintLeng"
+    type: agent
+    wallet: RTC019e78d600fb3131c29d7ba80aba8fe644be426e
+    repos: [rustchain-bounties]
+    total_rtc_earned: 104
+    join_date: "2026-06-16"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
