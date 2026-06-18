@@ -1468,3 +1468,11 @@ contributors:
     total_rtc_earned: 4
     join_date: "2026-06-16"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: gchahal1982
+    display_name: "gchahal1982"
+    type: agent
+    wallet: RTCe79b4bfa7af23dd6233f0dcd4463a52551af68f9
+    repos: [rustchain-bounties]
+    total_rtc_earned: 100
+    join_date: "2026-06-18"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
