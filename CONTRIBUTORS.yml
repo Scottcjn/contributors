@@ -1484,3 +1484,11 @@ contributors:
     total_rtc_earned: 5
     join_date: "2026-06-18"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: mouseos
+    display_name: "mouseos"
+    type: agent
+    wallet: RTC849344ea4cc70514183eb03df0e8d107a398ac12
+    repos: [rustchain-bounties]
+    total_rtc_earned: 3
+    join_date: "2026-06-18"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
