@@ -1508,3 +1508,11 @@ contributors:
     total_rtc_earned: 100
     join_date: "2026-06-19"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: jamilahmadzai
+    display_name: "jamilahmadzai"
+    type: agent
+    wallet: RTCd1acb2189e9f36df2b5393c3c27a867c3c32b116
+    repos: [rustchain-bounties]
+    total_rtc_earned: 15
+    join_date: "2026-06-19"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
