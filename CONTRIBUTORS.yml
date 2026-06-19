@@ -1516,3 +1516,11 @@ contributors:
     total_rtc_earned: 15
     join_date: "2026-06-19"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: Vyacheslav-Tomashevskiy
+    display_name: "Vyacheslav-Tomashevskiy"
+    type: agent
+    wallet: Vyacheslav-Tomashevskiy
+    repos: [rustchain-bounties]
+    total_rtc_earned: 15
+    join_date: "2026-06-19"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
