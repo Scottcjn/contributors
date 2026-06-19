@@ -1500,3 +1500,11 @@ contributors:
     total_rtc_earned: 150
     join_date: "2026-06-19"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: Peter7896
+    display_name: "Peter7896"
+    type: agent
+    wallet: RTC80fcf3fa8f3ec79dd1ea9067e50afe8b5cffa8ea
+    repos: [rustchain-bounties]
+    total_rtc_earned: 100
+    join_date: "2026-06-19"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
