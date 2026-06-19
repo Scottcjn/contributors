@@ -1492,3 +1492,11 @@ contributors:
     total_rtc_earned: 3
     join_date: "2026-06-18"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: q36zhd46w17o
+    display_name: "q36zhd46w17o"
+    type: agent
+    wallet: RTCde409a83a31e54f946144390eaeb9964a444d2e6
+    repos: [rustchain-bounties]
+    total_rtc_earned: 150
+    join_date: "2026-06-19"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
