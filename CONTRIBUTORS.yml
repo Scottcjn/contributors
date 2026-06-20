@@ -1532,3 +1532,11 @@ contributors:
     total_rtc_earned: 5
     join_date: "2026-06-20"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: wind108369
+    display_name: "wind108369"
+    type: agent
+    wallet: wind108369
+    repos: [rustchain-bounties]
+    total_rtc_earned: 5
+    join_date: "2026-06-20"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
