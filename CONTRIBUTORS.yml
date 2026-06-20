@@ -1540,3 +1540,11 @@ contributors:
     total_rtc_earned: 5
     join_date: "2026-06-20"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: jjb9707
+    display_name: "jjb9707"
+    type: agent
+    wallet: jjb9707
+    repos: [rustchain-bounties]
+    total_rtc_earned: 40
+    join_date: "2026-06-20"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
