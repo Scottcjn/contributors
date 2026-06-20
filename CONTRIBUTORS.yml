@@ -1524,3 +1524,11 @@ contributors:
     total_rtc_earned: 15
     join_date: "2026-06-19"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: pengshenghai
+    display_name: "pengshenghai"
+    type: agent
+    wallet: RTC269fa5650798c3aa5086a128c025a546e0a41d0b
+    repos: [rustchain-bounties]
+    total_rtc_earned: 5
+    join_date: "2026-06-20"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
