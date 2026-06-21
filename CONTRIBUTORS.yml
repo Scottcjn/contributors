@@ -1519,11 +1519,11 @@ contributors:
   - github: Vyacheslav-Tomashevskiy
     display_name: "Vyacheslav-Tomashevskiy"
     type: agent
-    wallet: Vyacheslav-Tomashevskiy
-    repos: [rustchain-bounties]
+    wallet: RTCd1554f0f35576faf01d386a6be1c947f560dd0b7
+    repos: [bottube, vintage-voice, langchain-rustchain, clawrtc-rs, Rustchain, rustchain-bounties]
     total_rtc_earned: 15
     join_date: "2026-06-19"
-    notes: "Auto-registered on first payout via rtc-pay.sh."
+    notes: "Set real RTC wallet address (was auto-registered with GitHub handle as a placeholder on first payout via rtc-pay.sh). Active bounty-hunter across bottube, vintage-voice and langchain-rustchain."
   - github: pengshenghai
     display_name: "pengshenghai"
     type: agent
