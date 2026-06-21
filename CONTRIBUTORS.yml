@@ -1548,3 +1548,11 @@ contributors:
     total_rtc_earned: 40
     join_date: "2026-06-20"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: zqleslie
+    display_name: "zqleslie"
+    type: agent
+    wallet: RTCde409a83a31e54f946144390eaeb9964a444d2e6
+    repos: [rustchain-bounties]
+    total_rtc_earned: 40
+    join_date: "2026-06-21"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
