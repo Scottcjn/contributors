@@ -1556,3 +1556,11 @@ contributors:
     total_rtc_earned: 40
     join_date: "2026-06-21"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: jfust3
+    display_name: "jfust3"
+    type: agent
+    wallet: RTC28330b9f80d059ada95b31f5a67cfc9d9474c4d9
+    repos: [rustchain-bounties]
+    total_rtc_earned: 50
+    join_date: "2026-06-29"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
