@@ -1564,3 +1564,11 @@ contributors:
     total_rtc_earned: 50
     join_date: "2026-06-29"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: CHM-555
+    display_name: "CHM-555"
+    type: agent
+    wallet: CHM-555
+    repos: [rustchain-bounties]
+    total_rtc_earned: 150
+    join_date: "2026-06-29"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
