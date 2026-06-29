@@ -1580,3 +1580,11 @@ contributors:
     total_rtc_earned: 35
     join_date: "2026-06-29"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+  - github: SKYJAMES777
+    display_name: "SKYJAMES777"
+    type: agent
+    wallet: SKYJAMES777
+    repos: [rustchain-bounties]
+    total_rtc_earned: 20
+    join_date: "2026-06-29"
+    notes: "Auto-registered on first payout via rtc-pay.sh."
