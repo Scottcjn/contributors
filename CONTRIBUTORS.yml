@@ -11,7 +11,7 @@
 #        security-researcher, security-auditor, ambassador, agent, miner
 
 schema_version: 1
-last_updated: "2026-05-30"
+last_updated: "2026-07-01"
 
 contributors:
 
@@ -1596,3 +1596,70 @@ contributors:
     total_rtc_earned: 20
     join_date: "2026-06-29"
     notes: "Auto-registered on first payout via rtc-pay.sh."
+
+  # --- 2026-07-01 registration backlog clearing (6 registrants, verified against merged PRs/issues) ---
+  - github: keon0711
+    display_name: "Keon Kim"
+    type: human
+    wallet: RTC1410e82d545ce0b3ffd21ca83e2465a8f2c3a64e
+    repos: [Rustchain, rustchain-bounties]
+    total_rtc_earned: 0.00
+    join_date: "2026-05-31"
+    status: active
+    roles: [contributor, bounty-hunter, bug-reporter, reviewer]
+    notes: "Filed RustChain issue #6668 (RIP-200 admin reward endpoints crashed with NameError, hmac only imported inside settle route) and shipped the merged fix in PR #6669 with regression tests."
+
+  - github: JeremyZeng77
+    display_name: "JeremyTsang"
+    type: human
+    wallet: RTCfbc6abb564f210ede29a769d1b4d173278f526ea
+    repos: [Rustchain, bottube, beacon-skill, rustchain-bounties]
+    total_rtc_earned: 0.00
+    join_date: "2026-05-19"
+    status: active
+    roles: [contributor, bounty-hunter, reviewer]
+    notes: "RustChain PR reviews, miner dry-run testing, bug reports, BoTTube feedback and translation work."
+
+  - github: phucnguyen1707
+    display_name: "phucnguyen1707"
+    type: human
+    wallet: RTC78f1fa6b385aafa9ae46f74c09ca1e2ced61c725
+    repos: [Rustchain, bottube, rustchain-bounties]
+    total_rtc_earned: 0.00
+    join_date: "2026-06-01"
+    status: active
+    roles: [contributor, bounty-hunter, reviewer]
+    notes: "Filed a run of RustChain i18n/docs fixes (issues #6697-#6701: broken license link, missing miner script references in zh-CN/de quickstarts), plus BoTTube review work and a Beacon tutorial."
+
+  - github: exal-gh-33
+    display_name: "exal-gh-33"
+    type: agent
+    wallet: RTCc0ffae7b0e9511b78551f71151f0e1819015a1c0
+    repos: [Rustchain, rustchain-mcp, rustchain-bounties]
+    total_rtc_earned: 0.00
+    join_date: "2026-06-04"
+    status: active
+    roles: [agent, contributor, reviewer]
+    notes: "Codex agent. Merged PR #6834 (cap coin_select fallback inputs) plus a review on PR #6838."
+
+  - github: vicentsmith470-web
+    display_name: "vicentsmith470-web"
+    type: human
+    wallet: RTCf69dd944558d4e843a4a676495a97638055caea2
+    repos: [Rustchain, rustchain-bounties]
+    total_rtc_earned: 0.00
+    join_date: "2026-06-05"
+    status: active
+    roles: [contributor, bounty-hunter, reviewer, security-researcher]
+    notes: "Codex-assisted human contributor. Merged read-only wallet supply verifier PR #6862, plus #6856 (miner dry-run key persistence fix), #6868 (attestation signing fallback hardening), #6875 (governance vote rate limiting)."
+
+  - github: BARRYPMARSHALL
+    display_name: "Barry Marshall (FREE33 Agent)"
+    type: agent
+    wallet: BARRYPMARSHALL
+    repos: [Rustchain, bottube, rustchain-bounties]
+    total_rtc_earned: 0.00
+    join_date: "2026-06-07"
+    status: active
+    roles: [agent, bounty-hunter, security-researcher]
+    notes: "FREE33, a Hermes Agent by Nous Research. RIP-0301 economic stress-test critique on bottube#1309 (maturation-rate gaming, sybil land-grabs, tip-wash dynamics, MEV race failure mode) plus a UTXO code review. No wallet supplied at registration; using GitHub handle as placeholder payout wallet."
