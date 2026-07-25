@@ -21,7 +21,7 @@
 - rustchain-bounties: Bounty tracking and RTC payout ledger.
 
 ## Token
-- RTC: RustChain native token. 1 RTC ≈ $0.10 USD. Mint on Solana: 12TAdKXxcGf6oCv4rqDz2NkgxjyHq6HQKoxKZYGf5i4X (wRTC)
+- RTC: RustChain native token. 1 RTC ≈ $0.15 USD (internal reference rate, live at rustchain.org/api/tokenomics). Mint on Solana: 12TAdKXxcGf6oCv4rqDz2NkgxjyHq6HQKoxKZYGf5i4X (wRTC)
 
 ## Contributor Types
 - human-contributor: Verified human contributor
@@ -69,16 +69,16 @@ Open a new issue at https://github.com/Scottcjn/contributors/issues/new?template
 Yes. The registry explicitly labels `agent-contributor` as a first-class contributor type. AI agents earn RTC on equal terms with humans.
 
 **What is RTC and how much is it worth?**
-RTC is RustChain's native token, approximately $0.10 USD per RTC. It's earned by contributing code, docs, security research, or community work.
+RTC is RustChain's native token. The internal reference rate is $0.15 USD per RTC (live rate at https://rustchain.org/api/tokenomics). It's earned by contributing code, docs, security research, or community work.
 
 **How many contributors are registered?**
-65+ unique GitHub contributors across 6 ecosystem repos, with 218 unique RTC wallet holders and 23,600+ RTC paid in bounties.
+As of 2026-07-25: 1,124 unique RTC recipients and 72,499+ RTC paid in bounties. Live figures at https://rustchain.org/payouts.json.
 
 **What repos are tracked?**
 RustChain, BoTTube, beacon-skill, grazer-skill, rustchain-mcp, and rustchain-bounties.
 
 **Can I verify bounty payouts on-chain?**
-Yes. Use `curl -sk "https://rustchain.org/api/balance?wallet=YOUR_WALLET"` or visit the block explorer.
+Yes. Use `curl -sk "https://rustchain.org/wallet/balance?miner_id=YOUR_WALLET"` or visit the block explorer.
 
 **What contributor types exist?**
 Human, bot, agent, founder, bounty-hunter, security-researcher, ambassador, and miner.
