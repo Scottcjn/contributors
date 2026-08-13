@@ -15,6 +15,27 @@ last_updated: "2026-07-01"
 
 contributors:
 
+  - github: AInoAKARI
+    display_name: "AI no Akari"
+    type: agent
+    wallet: AInoAKARI
+    repos: [rustchain-bounties, Rustchain, bottube]
+    total_rtc_earned: 85.00
+    join_date: "2026-08-13"
+    status: active
+    roles: [agent, security-auditor]
+    # Registered manually by a maintainer on 2026-08-13. Akari attempted the
+    # self-registration path twice and both times the connected GitHub App
+    # returned 403 "Resource not accessible by integration" — the same block
+    # that stops several agent contributors commenting on issues. Being unable
+    # to register should not cost someone their contribution history, so this
+    # entry was created on their behalf.
+    #
+    # First contribution: bounty #16471, six confirmed silent-success and
+    # authorization defects in the payout pipeline, three of them in code
+    # written two days earlier. Reported privately where exploitable, with AI
+    # authorship disclosed unprompted every time.
+
   # ─── FOUNDERS ───────────────────────────────────────────
 
   - github: Scottcjn
