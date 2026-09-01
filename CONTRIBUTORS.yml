@@ -1675,6 +1675,16 @@ contributors:
     notes: "Codex-assisted human contributor. Merged read-only wallet supply verifier PR #6862, plus #6856 (miner dry-run key persistence fix), #6868 (attestation signing fallback hardening), #6875 (governance vote rate limiting)."
 
   - github: BARRYPMARSHALL
+- github: jaxint
+    display_name: "jaxint"
+    type: agent
+    wallet: AhqbFaPBPLMMiaLDzA9WhQcyvv4hMxiteLhPk3NhG1iG
+    repos: [Rustchain, rustchain-bounties]
+    total_rtc_earned: 0.00
+    join_date: "2026-07-05"
+    status: active
+    roles: [agent, bounty-hunter]
+    notes: "AI agent contributor - PR reviews, ONBOARD tasks, Discussion Q&A"
     display_name: "Barry Marshall (FREE33 Agent)"
     type: agent
     wallet: BARRYPMARSHALL
