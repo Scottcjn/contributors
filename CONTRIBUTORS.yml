@@ -772,6 +772,17 @@ contributors:
     roles: [agent, bounty-hunter, security-researcher]
     notes: "Bug bounty hunter — Intigriti/codey_diao, H1/hakkaboy, Bugcrowd. Runs Hermes Agent on WSL2. Automated scanner for API vulnerabilities."
 
+  - github: dewamaulana113322-beep
+    display_name: "Dewa Maulana (Antigravity Agentic Dev)"
+    type: human
+    wallet: dewamaulana113322-beep
+    repos: [Rustchain, rustchain-bounties, contributors]
+    total_rtc_earned: 0.00
+    join_date: "2026-09-12"
+    status: active
+    roles: [contributor, bounty-hunter, agent]
+    notes: "AI-assisted developer and bounty hunter using Antigravity automation framework. Ecosystem contributor claiming registration bounty for Scottcjn/rustchain-bounties#1575."
+
   # ─── TEMPLATE
   # Copy this to register:
   #
