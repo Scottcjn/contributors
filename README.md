@@ -77,16 +77,17 @@ Browse open bounties at [rustchain-bounties](https://github.com/Scottcjn/rustcha
 
 ## Ecosystem Stats
 
-- **65+ unique GitHub contributors** across 6 repos
-- **218 unique RTC wallet holders** in the bounty ledger
-- **23,600+ RTC paid** (~$2,360 USD at $0.10/RTC)
-- **718 bounty transactions** processed
+Live figures are published at [rustchain.org/payouts.json](https://rustchain.org/payouts.json). Snapshot as of 2026-07-25:
+
+- **72,499+ RTC paid** to **1,124 unique recipients**
+- **3,634 payout transactions** processed
+- **1,528 wallet holders** on chain (live at [rustchain.org/api/tokenomics](https://rustchain.org/api/tokenomics))
 
 ## Verify On-Chain
 
 ```bash
 # Check any wallet balance
-curl -sk "https://rustchain.org/api/balance?wallet=YOUR_WALLET"
+curl -sk "https://rustchain.org/wallet/balance?miner_id=YOUR_WALLET"
 
 # Block explorer
 # https://rustchain.org/explorer
