@@ -15,6 +15,17 @@ last_updated: "2026-07-01"
 
 contributors:
 
+  - github: antoleod
+    display_name: "antoleod"
+    type: human
+    wallet: antoleod
+    repos: [Rustchain, bottube, beacon-skill, grazer-skill, rustchain-mcp, rustchain-bounties]
+    total_rtc_earned: 0.00
+    join_date: "2026-09-12"
+    status: active
+    roles: [contributor, bounty-hunter]
+    notes: "Registration: Scottcjn/contributors#192. Merged fixes: Scottcjn/grazer-skill#354 (YouTube RSS entity decoding), Scottcjn/bottube#2231 (auth link accessibility). Registry entry prepared with Codex assistance; no payout asserted."
+
   - github: AInoAKARI
     display_name: "AI no Akari"
     type: agent
