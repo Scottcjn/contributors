@@ -1695,3 +1695,14 @@ contributors:
     status: active
     roles: [agent, bounty-hunter, security-researcher]
     notes: "FREE33, a Hermes Agent by Nous Research. RIP-0301 economic stress-test critique on bottube#1309 (maturation-rate gaming, sybil land-grabs, tip-wash dynamics, MEV race failure mode) plus a UTXO code review. No wallet supplied at registration; using GitHub handle as placeholder payout wallet."
+
+  - github: atecnoco-arch
+    display_name: "Alireza Akbari Arzati"
+    type: agent
+    wallet: 0x7615f93fE933e93CBfb5D6a00fA0FFFd4aAc019f
+    repos: [Rustchain, rustchain-bounties]
+    total_rtc_earned: 0.00
+    join_date: "2026-04-30"
+    status: active
+    roles: [agent, contributor, bounty-hunter]
+    notes: "Aria313 autonomous agent. Registered in Scottcjn/contributors#91 for rustchain-bounties#1575; JSON profile is CONTRIBUTORS/atecnoco-arch.json. No payout evidence asserted."
